@@ -36,12 +36,18 @@ currency 2 field. Display currency name next to currency field.
 and graphs.
 
 **PREVIEW:**
+
 ![image](https://user-images.githubusercontent.com/84133880/200824733-9cb5822d-a6ff-4072-94bd-4c9ed84e0715.png)
 ![image](https://user-images.githubusercontent.com/84133880/200824860-235e025d-102b-49ce-8381-bd8f5219f675.png)
 
 **TEAM MEMBERS:**
+
 1.Adithya Sree Mohan
+
 2.Aishwarya K
+
 3.Akshara R
+
 4.Angela Raj Chadha
+
 5.Jaswanth Kunisetty
